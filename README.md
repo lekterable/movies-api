@@ -1,4 +1,4 @@
-# movies-api [![Build Status](https://travis-ci.org/lekterable/movies-api.svg?branch=master)](https://travis-ci.org/lekterable/movies-api)
+# movies-api [![Build Status](https://travis-ci.org/lekterable/movies-api.svg?branch=master)](https://travis-ci.org/lekterable/movies-api) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 movies-api is a basic movie database interacting with external API.
 
